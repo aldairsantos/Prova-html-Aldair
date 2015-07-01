@@ -1,6 +1,12 @@
-body{
-	background-color:#cd853f;
+h1 {
+	color: #00f;
+	font-family: 'Indie Flower' script;
+	font-size: 80px;
+	font-weight: bolder;
 }
-h1{
-	color:#00f;
+p{
+	font-weight: bolder;
+}
+a {
+	text-decoration: line-through;
 }
