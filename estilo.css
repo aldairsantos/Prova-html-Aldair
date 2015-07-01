@@ -1,12 +1,17 @@
-h1 {
-	color: #00f;
-	font-family: 'Indie Flower' script;
-	font-size: 80px;
-	font-weight: bolder;
+h1{
+	color:#40516B;
+	font-family: 'Arial';
+	border-bottom: 2px solid #785A4F;
+	padding-left: 20px;
 }
 p{
-	font-weight: bolder;
+	color: #40516B;
+	font-family: 'Arial';
+	padding: 5px;
 }
-a {
-	text-decoration: line-through;
+a{
+	color: #785A4F;
+	text-decoration: none;
+	font-weight: bolder;
+
 }
